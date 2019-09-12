@@ -1,4 +1,11 @@
+# Microsoft Office
+*.doc
+*.docx
+*.xls
+*.xlsx
 *.ppt
 *.pptx
+
+
 *.pdf
 *.wmv
