@@ -454,3 +454,4 @@ $\nu$: $\lambda$, 色散 -> 群速色散
 如果放在离镜一定距离的位置: 算离束腰的位置z, 然后Ch7P12$w(z)$
 $$\theta_{1/e^2}=\frac{\lambda}{\pi w_0}$$
 $$w_0=\sqrt{\frac{\lambda L'}{2\pi}}$$
+?????
