@@ -49,7 +49,7 @@ $$
   
     ==课件1#P8==
   
-  <img src="assets/2-2-1.png" alt="2-2-1" style="zoom: 67%;" />
+  <img src="Questions.assets/2-2-1.png" alt="2-2-1" style="zoom: 67%;" />
   
   - 非均匀加宽的工作物质的增益饱和
   
@@ -70,7 +70,7 @@ $$
   
 - 频率牵引
   
-  - 由于介质极化, 实际激光器 (有源腔) 的精确谐振频率偏离无源腔相应的模频率，且更靠近激活介质粒子跃迁的中心频率
+  - 由于介质极化, 实际激光器 (有源腔) 的精确谐振频率偏离无源腔相应的模频率, 且更靠近激活介质粒子跃迁的中心频率
 
 ---
 
@@ -78,11 +78,11 @@ $$
 
 ==课件2#P35==
 
-<img src="assets\2-3-1.png" alt="2-3-1" title="2-3-1" style="zoom:50%;" />
+<img src="Questions.assets\2-3-1.png" alt="2-3-1" title="2-3-1" style="zoom:50%;" />
 
 ==课件2#P35==
 
-<img src="assets\2-3-2.png" alt="2-3-2" title="2-3-2" style="zoom: 50%;" />
+<img src="Questions.assets\2-3-2.png" alt="2-3-2" title="2-3-2" style="zoom: 50%;" />
 
 ---
 
@@ -127,7 +127,7 @@ $$
 
 #### 3.3 一般稳定球面镜腔及等价共焦腔
 
-==《激光原理》p74 (2-8-3) 式1 <font color="red"><strong>有符号错误</strong></font>====，课件3#P22== <font color="red"><strong>必考</strong></font>
+==《激光原理》p74 (2-8-3) 式1 <font color="red"><strong>有符号错误</strong></font>====, 课件3#P22== <font color="red"><strong>必考</strong></font>
 
 - 这是一道有7小问的大题
 
@@ -189,7 +189,7 @@ $$
   
   - 高阶模
   
-    <img src="assets\3-3-1.png" alt="3-3-1" style="zoom: 45%;" />
+    <img src="Questions.assets\3-3-1.png" alt="3-3-1" style="zoom: 45%;" />
 
 ---
 
@@ -209,7 +209,7 @@ $$
 
 ==课件3#P41==
 
-<img src="assets\3-4-1.png" alt="3-4-1" style="zoom: 50%;" />
+<img src="Questions.assets\3-4-1.png" alt="3-4-1" style="zoom: 50%;" />
 
 ---
 
@@ -221,7 +221,7 @@ $$
 
 ==课件4#P26==
 
-<img src="assets\4-1-1.png" alt="4-1-1" style="zoom: 80%;" />
+<img src="Questions.assets\4-1-1.png" alt="4-1-1" style="zoom: 80%;" />
 
 ---
 
@@ -229,7 +229,7 @@ $$
 
 ==课件4#P48==
 
-<img src="assets\4-2-1.png" alt="4-2-1" style="zoom: 67%;" />
+<img src="Questions.assets\4-2-1.png" alt="4-2-1" style="zoom: 67%;" />
 
 ---
 
@@ -241,31 +241,39 @@ $$
 
 <font color=red><strong>必考(Incomplete)</strong></font>
 
-1. 电光调Q
-   1. 入射y平行光, 加1/2波电压, 则转为x平行光
-   2. 加1/4波电压(1/2波电压的一半), x,y向分量振幅相等, 相位差$\pi/2$, 则为圆偏振光
-   3. 其他情况为椭偏光, 长短轴的比例取决于电压大小
-   4. 不加电压: 入射光=出射光
-   5. $V_{AB}=V_{1/2}$ 全出
-   6. $E_x\propto V_{AB}$ x方向的分量才能射出
-2. 加压式电光调Q开关
-   1. 不加压 = 无光
-   2. 加压$V_{1/2}$ = 有光
-   3. <img src="assets\5-1-1.png" alt="5-1-1" style="zoom: 50%;" />
-   4. 文字描述, 见PPT, 简略说一下就好
-   5. 一定要抄下来的: 时序关系图
-3. 选单脉冲开关
-4. 电光斩波器或削波器
-5. 直流式再生放大器开关
-6. 锁模调制器
-7. 电光隔离器
+##### 5.1.1 电光调Q
+
+1. 入射y平行光, 加1/2波电压, 则转为x平行光
+2. 加1/4波电压(1/2波电压的一半), x,y向分量振幅相等, 相位差$\pi/2$, 则为圆偏振光
+3. 其他情况为椭偏光, 长短轴的比例取决于电压大小
+4. 不加电压: 入射光=出射光
+5. $V_{AB}=V_{1/2}$ 全出
+6. $E_x\propto V_{AB}$ x方向的分量才能射出
+
+##### 5.1.2 加压式电光调Q开关
+
+1. 不加压 = 无光
+2. 加压$V_{1/2}$ = 有光
+3. <img src="Questions.assets\5-1-1.png" alt="5-1-1" style="zoom: 50%;" />
+4. 文字描述, 见PPT, 简略说一下就好
+5. 一定要抄下来的: 时序关系图
+
+##### 5.1.3 选单脉冲开关
+
+##### 5.1.4 电光斩波器或削波器
+
+##### 5.1.5 直流式再生放大器开关
+
+##### 5.1.6 锁模调制器
+
+##### 5.1.7 电光隔离器
 
 ---
 
-#### 5.2 详细说明 方解石制成的1/4玻片 和 加1/4电压的KDP电光晶体 在应用上的重要区别
+#### 5.2 详细说明 方解石制成的1/4波片 和 加1/4电压的KDP电光晶体 在应用上的重要区别
 
-- 1/4玻片 
-  - 入射光偏振方向与光轴(z轴)成45度
+- 1/4波片
+  - 入射光偏振方向与光轴(z轴)及y轴成45度
   - 光轴平行于晶体表面
   - 入射光垂直于光轴
   - $\Delta \phi=\frac{2\pi l}{\lambda}(n_o-n_e)$
@@ -278,11 +286,41 @@ $$
 
 ---
 
+#### 5.3 说明：可饱和吸收体的台阶效应, 并画图
+
+光路图, 时序图, 文字说明, 台阶
+
+==课件5#129==
+
+<img src="Questions.assets/5-3-1.png" alt="5-3-1" style="zoom: 67%;" />
+
+==课件5#130==
+
+<img src="Questions.assets/5-3-2.png" alt="5-3-2" style="zoom:90%;" />
+
+==课件5#131==
+
+<img src="Questions.assets/5-3-3.png" alt="5-3-3" style="zoom: 67%;" />
+
+==课件5#131==
+
+<img src="Questions.assets/5-3-4.png" alt="5-3-4" style="zoom:67%;" />
+
+---
+
 ### 第六章 激光锁模技术
 
-#### 6.1 调节锁模激光器和相同线宽工作物质的不调节锁模激光器有什么区别
+#### 6.1 调谐锁模激光器和相同线宽工作物质的不调谐锁模激光器有什么区别
 
-调节锁模: 可以调节中心频率, 但是纵模数较少
+- 不调谐: 整个增益大于损耗的全部谱线
+
+- 调谐: 有窄的透过峰, 可以在范围内任意选择中心频率, 但纵模数较少, 线宽更窄, 脉冲更宽.
+
+- 画图
+
+  <img src="Questions.assets/6-1-1.png" alt="6-1-1" style="zoom:120%;" />
+
+
 
 ---
 
@@ -290,11 +328,11 @@ $$
 
 ==课件6#P59==
 
-<img src="assets\6-2-1.png" alt="6-2-1" style="zoom:67%;" />
+<img src="Questions.assets\6-2-1.png" alt="6-2-1" style="zoom:67%;" />
 
 ==课件6#P60==
 
-<img src="assets\6-2-2.png" alt="6-2-2" style="zoom:67%;" />
+<img src="Questions.assets\6-2-2.png" alt="6-2-2" style="zoom:67%;" />
 
 note by HaoTY:
 
@@ -310,7 +348,7 @@ note by HaoTY:
 
 ==课件6#P65==
 
-<img src="assets\6-3-1.png" alt="6-3-1" style="zoom: 67%;" />
+<img src="Questions.assets\6-3-1.png" alt="6-3-1" style="zoom: 67%;" />
 
 ---
 
@@ -322,7 +360,7 @@ note by HaoTY:
 
 ==课件6#P75==
 
-<img src="assets\6-4-1.png" alt="6-4-1" style="zoom: 50%;" />
+<img src="Questions.assets\6-4-1.png" alt="6-4-1" style="zoom: 50%;" />
 
 ##### (b) 给出钛宝石晶体的特性
 
@@ -351,21 +389,17 @@ note by HaoTY:
 
 #### 7.1 若选择基横模, 小孔光阑放在贴镜位置, 计算光阑半径
 
+此题接题 **3.3**
+
 理论和实验都表明: $\frac32w$可以作为可靠的孔径下限, 即 $r\geq\frac32w$.
 
 功率透过率 ==课件7#P12==
 
-<img src="assets\7-1-1.png" alt="7-1-1" style="zoom: 60%;" />
+<img src="Questions.assets\7-1-1.png" alt="7-1-1" style="zoom: 60%;" />
 
 如果放在离镜一定距离的位置: 算离束腰的位置z, 然后得到 $w(z)$ ==课件7#P11==
 
-<img src="assets\7-1-2.png" alt="7-1-2" style="zoom: 60%;" />
-远场发散角
-$$
-\theta_{1/e^2}=\frac{\lambda}{\pi w_0}
-$$
-
----
+<img src="Questions.assets\7-1-2.png" alt="7-1-2" style="zoom: 60%;" />
 
 ### 第八章 激光放大技术
 
@@ -379,7 +413,7 @@ $$
 
 光路图 ==课件8#P20第三个图==
 
-<img src="assets\8-1-1.png" alt="8-1-1" style="zoom: 60%;" />
+<img src="Questions.assets\8-1-1.png" alt="8-1-1" style="zoom: 60%;" />
 
 1. $\lambda/4$玻片
 2. 
@@ -391,23 +425,62 @@ $$
 
 #### 8.2 用一个偏振器加一个放大介质加 A 所构成的单向隔离器的工作原理/区别
 
+<font color=red><strong>(Incomplete)</strong></font>
+
 单向隔离器的工作原理, 光路图会不一样: -[]-/-|(凸透镜)-[A]-[]-
-
-
 
 ---
 
-#### 8.3 环形腔再生放大器 
+#### 8.3 详细描述环形腔再生放大技术的工作原理
 
-<font color=red><strong>(Incomplete)</strong></font>
+光路图, 时序关系和公式, 文字说明
 
-光路图, 公式, 文字说明
+背景知识: 布儒斯特角附近, 反射光主要为 S 极化
+
+==课件8#P32==
+
+<img src="Questions.assets/8-3-1.png" alt="8-3-1" style="zoom:67%;" />
+
+==课件8#P33==
+
+<img src="Questions.assets/8-3-2.png" alt="8-3-2" style="zoom:67%;" />
+
+S 光入射；半波片取向 45°, 变成 P 光;
+
+第一次通过 DKDP 后绕一圈, 被偏振片反射, 再次进入 DKDP 晶体之前加上半波电压, 和半波片抵消, 之后一直循环, 放大, 直至关闭 DKDP 上的电压, 光脉冲再次从半波片 + DKDP 通过后变成 S 光, 再经最后一次放大后从偏振片输出.
+$$
+M=\frac{\Delta T\cdot c}{L}
+$$
+
+
+note by HaoTY:
 
 希望光跑一圈的时间长一点, 整个光路里面都是S分量的光
 
 ---
 
-#### 8.4 啁啾脉冲的作用
+#### 8.4 直腔式再生放大器
+
+==课件8#P33==
+
+<img src="Questions.assets/8-4-1.png" alt="8-4-1" style="zoom: 60%;" />
+
+缺点:
+
+- 入射光在水平平台内, 出射光在竖直方向;
+- 需要精确地保证, 当光脉冲在左半边时关闭电压, 如果关闭电压时光脉冲在右半边、则出射光回到入射光路, 会打坏元件.
+
+---
+
+#### 8.5 简单描述如何消除放大器工作物质端面
+
+10mmNd:YAG晶体, 10Hz, 热透镜效应, 热应力双折射效应
+
+斜端面-热透镜效应, 成对使用-热应力双折射效应
+
+---
+
+#### 8.6 啁啾脉冲的作用
 
 避免光学元件被破坏, 有效提取放大介质中的能量
 
